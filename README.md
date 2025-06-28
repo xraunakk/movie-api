@@ -28,7 +28,7 @@ movie-api/
 
 🧪 How to Run Locally
 1. Clone the repo
-git clone https://github.com/your-username/movie-api.git
+git clone https://github.com/xraunakk/movie-api.git
 cd movie-api
 2. Run the server
 go run main.go
